@@ -1,0 +1,17 @@
+{
+  "name": "deal-fetcher",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Jim Pick (@jimpick)",
+  "license": "MIT",
+  "dependencies": {
+    "@filecoin-shipyard/lotus-client-provider-nodejs": "0.0.5",
+    "@filecoin-shipyard/lotus-client-rpc": "0.0.12",
+    "@filecoin-shipyard/lotus-client-schema": "^1.0.0"
+  }
+}
